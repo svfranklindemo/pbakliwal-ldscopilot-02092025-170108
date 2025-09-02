@@ -1,19 +1,19 @@
 {
     "mappings": [
-      "/content/pbakliwal/secur-financial/:/",
-      "/content/pbakliwal/secur-financial/configuration:/.helix/config.json",
-      "/content/pbakliwal/secur-financial/metadata:/metadata.json",
-      "/content/pbakliwal/secur-financial/configs:/configs.json",
-      "/content/pbakliwal/secur-financial/configs-stage:/configs-stage.json",
-      "/content/pbakliwal/secur-financial/configs-dev:/configs-dev.json",
-      "/content/pbakliwal/secur-financial/redirects:/redirects.json",
-      "/content/pbakliwal/secur-financial/placeholders:/placeholders.json",
-      "/content/pbakliwal/secur-financial/products/recommended-products:/products/recommended-products.json",
-      "/content/pbakliwal/secur-financial/enrichment/enrichment:/enrichment/enrichment.json",
-      "/content/pbakliwal/secur-financial/images/products/:/images/products/"
+      "/content/pbakliwal/97340a6c-76d6-405d-99d5-6a5f72fffea0/:/",
+      "/content/pbakliwal/97340a6c-76d6-405d-99d5-6a5f72fffea0/configuration:/.helix/config.json",
+      "/content/pbakliwal/97340a6c-76d6-405d-99d5-6a5f72fffea0/metadata:/metadata.json",
+      "/content/pbakliwal/97340a6c-76d6-405d-99d5-6a5f72fffea0/configs:/configs.json",
+      "/content/pbakliwal/97340a6c-76d6-405d-99d5-6a5f72fffea0/configs-stage:/configs-stage.json",
+      "/content/pbakliwal/97340a6c-76d6-405d-99d5-6a5f72fffea0/configs-dev:/configs-dev.json",
+      "/content/pbakliwal/97340a6c-76d6-405d-99d5-6a5f72fffea0/redirects:/redirects.json",
+      "/content/pbakliwal/97340a6c-76d6-405d-99d5-6a5f72fffea0/placeholders:/placeholders.json",
+      "/content/pbakliwal/97340a6c-76d6-405d-99d5-6a5f72fffea0/products/recommended-products:/products/recommended-products.json",
+      "/content/pbakliwal/97340a6c-76d6-405d-99d5-6a5f72fffea0/enrichment/enrichment:/enrichment/enrichment.json",
+      "/content/pbakliwal/97340a6c-76d6-405d-99d5-6a5f72fffea0/images/products/:/images/products/"
     ],
     "includes": [
-      "/content/pbakliwal/secur-financial",
+      "/content/pbakliwal/97340a6c-76d6-405d-99d5-6a5f72fffea0",
       "/content/dam/citisignal/images/products/"
     ]
 }
